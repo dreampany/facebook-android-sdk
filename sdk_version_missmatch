@@ -1,0 +1,1 @@
+Dear lovely facebook, the suggested complie link for facebook android sdk compile 'com.facebook.android:facebook-android-sdk:4.27' which is wrong. It will be compile 'com.facebook.android:facebook-android-sdk:4.27.0'
